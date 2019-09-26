@@ -2469,6 +2469,9 @@ body {
 .cid-rCZdpIgjpq .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
+.cid-rCZdpIgjpq P {
+  color: #ffffff;
+}
 .cid-rCYyH96Ex0 .navbar {
   background: #ffffff;
   transition: none;
@@ -2893,6 +2896,9 @@ body {
 }
 .cid-rCYOwIt4DO .card {
   padding-bottom: 1.5rem;
+}
+.cid-rCYOwIt4DO H5 {
+  text-align: center;
 }
 .cid-rCZ5ywm7yK {
   padding-top: 90px;
